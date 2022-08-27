@@ -1,0 +1,41 @@
+
+.local {
+    text-align: center;
+}
+ .tipo {
+    list-style-type: none;
+ }
+ .borda {
+    border-radius: 90%;
+ }
+ .color {
+    width: 40vh;
+    height: 90vw;
+    text-justify: distribute;
+    text-decoration: none;
+    background-color: chocolate
+    
+
+ }
+ .margem {
+    padding-top: 150px;
+    text-align: center;
+ }
+
+ .tamanho {
+    font-size: 400%;
+ }
+
+ #div1 {
+    width: 10vh;
+    height: 90vw;
+    float: left;
+ }
+
+ #div2 {
+    width: 140vh;
+    height: 80vw;
+    float: right;
+    text-align: justify;
+    padding: 250px;
+ }
